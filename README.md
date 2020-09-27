@@ -1,16 +1,9 @@
 # simple_pong
 
-A new Flutter project.
+This project is a Simple Pong game to explore Flutter application development.
 
-## Getting Started
+The application allows a single player game play with a score update everytime the ball touches the paddle.
 
-This project is a starting point for a Flutter application.
+There is also a color change anytime the ball touches any of the edges.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is no allowance for modification at the moment.
